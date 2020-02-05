@@ -1,0 +1,2 @@
+# EulmaTour
+fragment_FragmentPagerAdapter_BaseAdapter
